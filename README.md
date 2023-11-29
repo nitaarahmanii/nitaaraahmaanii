@@ -77,7 +77,6 @@
                 <p class="card-text">cotton candy skies<‧₊˚ 💙⋅♡𓂃 ࣪ ִֶָ☾.</p>
               </div>
             </div>
-          </div class="row text-center justify-content-evenly">
             <div class="col-md-4 mb-3">
               <div class="card">
                 <img src="WhatsApp Image 2023-11-29 at 12.55.40.jpeg" class="card-img-top" alt=""/>
@@ -94,8 +93,6 @@
       <!-- Akhir Project -->
 
       <!-- Contact -->
-      <section id="contact">
-        <div class="container">
           <div class="row text-center">
             <div class="col">
               <h2>Contact Me</h2>
@@ -112,11 +109,8 @@
                       <div class="mb-3">
                       <label for="Email" class="form-label">Email address</label>
                       <input type="email" class="form-control" id="Email1" aria-describedby="emailHelp">
-                      </div>
-                    </div>
                 <button type="submit" class="btn btn-primary">Submit</button>
-          </div>
-        </div>
+ 
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="0.5" d="M0,288L48,272C96,256,192,224,288,197.3C384,171,480,149,576,165.3C672,181,768,235,864,250.7C960,267,1056,245,1152,250.7C1248,256,1344,288,1392,304L1440,320L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
         <section>
       <!-- Akhir Contact -->
@@ -124,8 +118,7 @@
     <!-- Footer -->
   <section>
       <footer class="bg-primary text-white text-center">
-        <p>Created with <i class="bi bi-cake2"></i>Love by Nita Rahmani</p>
+        <p>Created with Love by Nita Rahmani</p>
       </footer>
     <!-- Akhir Footer -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
- 
